@@ -9,7 +9,7 @@ starterProjects:
   - name: user-app
     git:
       remotes:
-        origin: 'https://gitlab.asianpaints.com/gitlab-exploration/cpa/java-calc.git'
+        origin: 'https://github.com/datamato123/java-calc.git'
 components:
   - name: devruntime
     container:
